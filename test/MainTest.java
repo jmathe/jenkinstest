@@ -46,7 +46,7 @@ public class MainTest {
         Main.main(args);
         // TODO review the generated test code and remove the default call to fail.
         //fail("The test case is a prototype.");
-        System.out.println("Running unit test");
+        System.out.println("Running unit tests");
     }
     
 }
